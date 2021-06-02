@@ -21,6 +21,11 @@ The data was collected and made available by [Dr. Kristen Gorman](https://www.ua
 
 Dataset contain data for 344 penguins. There are 3 different species of penguins in this dataset, collected from 3 islands in the Palmer Archipelago, Antarctica.
 
+***
+
+## View the complete blog [here](#).
+
+***
 
 ## Data visualization based on the same dataset.
 
