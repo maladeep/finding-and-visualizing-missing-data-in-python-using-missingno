@@ -4,7 +4,7 @@
 
 <a href='https://allisonhorst.github.io/palmerpenguins'><img src='images/palmerpenguins.png' align="right" height="138.5" /></a>
 
-This repo is beginners friendly tutorials in exploring and visualizing missing values, popularly known as null (NAN)  values in any dataset using python.
+This repo is beginners friendly tutorials in exploring and visualizing missing values, popularly known as null (NAN)  values in any dataset using [python's missingno library](https://github.com/ResidentMario/missingno).
 
 ***
 
