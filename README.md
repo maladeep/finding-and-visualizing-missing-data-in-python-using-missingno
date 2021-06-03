@@ -1,8 +1,8 @@
 # Easy Way of Finding and Visualizing Missing Data in Python
 
-### explore and visualize the incompleteness of a dataset in Python with missingno library.
+> Explore and visualize the incompleteness of a dataset in Python with missingno library.
 
-<a href='https://allisonhorst.github.io/palmerpenguins'><img src='images/palmerpenguins.png' align="right" height="138.5" /></a>
+<a href='https://allisonhorst.github.io/palmerpenguins'><img src='images/palmerpenguin.png' align="right" height="138.5" /></a>
 
 This repo is beginners friendly tutorials in exploring and visualizing missing values, popularly known as null (NaN)  values in any dataset using [python's missingno library](https://github.com/ResidentMario/missingno).
 
@@ -30,7 +30,7 @@ Dataset contain data for 344 penguins. There are 3 different species of penguins
 
 ***
 
-## Data visualization based on the same dataset.
+## Visualization based on the same dataset
 
 <a href='https://public.tableau.com/app/profile/maladeep/viz/Penguin_15948704770880/PalmerPenguins'><img src='images/Palmer-Penguins.png'  /></a>
 
