@@ -26,7 +26,7 @@ Dataset contain data for 344 penguins. There are 3 different species of penguins
 
 ***
 
-## View the complete blog [here](#).
+## View the complete blog [here](https://medium.datadriveninvestor.com/easy-way-of-finding-and-visualizing-missing-data-in-python-bf5e3f622dc5).
 
 ***
 
